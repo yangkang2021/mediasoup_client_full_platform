@@ -39,12 +39,16 @@ mediasoup客户端原生c++开发项目.
 2. export导出
 
 
+系统架构
+![图 1](images/1.png)
 
+客户端架构
+   ![图 2](images/f50c4a4f3c653757d1f124e6c74e615b11114c1a2dad328ba99733826f540f4a.png) 
 
 ## 客户软件开发：
 1. 工具4分天下：pc，web，ios，android。
 2. 得到6个软件：web，ios，android，pc-windows，pc-linux，pc-mac。
-##### PC端
+##### windows端
 ![图 1](images/aab8401acd79683dd9b8ad979ddd413cca33bf0e0d9d198739ab8be8f77f3971.png)  
 
 ##### Android端
@@ -55,3 +59,12 @@ mediasoup客户端原生c++开发项目.
 
 ##### Web端
 ![图 3](images/f2431c3e5734cef3803c001636476066a66d55c0f1bc3cdf51746d3ecfba076c.png)  
+
+##### ubuntu客户端-嵌入式arm64
+![](images/4dbc0a4a.png)
+
+##### mac客户端
+![](images/mac.png)
+
+##### 支持录制与直播
+![](images/直播功能.png)
