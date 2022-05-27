@@ -1,5 +1,9 @@
 # mediasoup_client_native
-mediasoup客户端原生c++开发项目.
+mediasoup全平台客户端
+
+## 参考项目
+1. [libwebrtc项目](https://github.com/yangkang2021/libwebrtc)
+2. [Mediasoup Server集群](https://github.com/yangkang2021/mediasoup_server_cluster)
 
 ## 目标
 1. 主要支持平台：Windows，Mac，Ubuntu/Centos。会考虑到Android和ios的通用性。
@@ -54,8 +58,8 @@ mediasoup客户端原生c++开发项目.
 ##### Android端
 ![图 2](images/295290790f56996424d267c4311279fb9c21957bdb973fe12746f4340a1bf150.png)  
 
-##### ios端
-![图 1](images/c9dee87b216297b77b8b6ca263476c6270012304fb90699c701a3686afaccc6f.png)  
+##### ios端 
+![](.README_images/ios.png)
 
 ##### Web端
 ![图 3](images/f2431c3e5734cef3803c001636476066a66d55c0f1bc3cdf51746d3ecfba076c.png)  
