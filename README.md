@@ -72,3 +72,6 @@ mediasoup全平台客户端
 
 ##### 支持录制与直播
 ![](images/直播功能.png)
+
+#### 支持全平台屏幕共享
+![](.README_images/3dbb8cc4.png)
